@@ -13,6 +13,8 @@ body,
     background-color: #f8f7fd;
 }
 
+/* Edit the title */
+
 #title {
     color: #221e41;
     background-color: #f8f7fd;
@@ -22,6 +24,8 @@ body,
     padding: 5px;
     cursor: auto;
 }
+
+/*Edit the outlines */
 
 h1 {
     background-color: #221e41;
